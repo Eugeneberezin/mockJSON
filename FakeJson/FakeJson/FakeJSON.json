@@ -1,0 +1,26 @@
+[
+    {
+        "imageName" : "sun.max.fill",
+        "description" : "Sun"
+    },
+    {
+        "imageName" : "moon.circle.fill",
+        "description" : "Moon"
+    },
+    {
+        "imageName" : "cloud.heavyrain.fill",
+        "description" : "Rain"
+    },
+    {
+        "imageName" : "cloud.moon.rain.fill",
+        "description" : "Moon and rain"
+    },
+    {
+        "imageName" : "thermometer.sun.fill",
+        "description" : "Hot"
+    }
+    
+]
+ 
+ 
+
